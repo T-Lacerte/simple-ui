@@ -1,0 +1,49 @@
+﻿private void Awake()
+{
+}
+
+private void OnEnable()
+{
+}
+
+/// <summary>
+/// Called after OnEnable() if has not been called before
+/// </summary>
+/// <exception cref="NotImplementedException"></exception>
+private void Start()
+{
+}
+
+/// <summary>
+/// Represents stepping forward one fixed time step for the simulation.
+/// This might run more than once in a frame.
+/// </summary>
+/// <exception cref="NotImplementedException"></exception>
+private void FixedUpdate()
+{
+}
+
+private void Update()
+{
+}
+
+private void LateUpdate()
+{
+}
+
+/// <summary>
+/// Called multiple times for different events, usually at least twice, once for "layout" and once for "repaint" events.
+/// </summary>
+/// <exception cref="NotImplementedException"></exception>
+private void OnGUI()
+{
+}
+
+private void OnDisable()
+{
+}
+
+
+public void OnDestroy()
+{
+}
