@@ -75,5 +75,7 @@ namespace Game.View
             _waitForSecondsRealtime = new WaitForSecondsRealtime(textBlinkDelay);
         }
         //TODO: handling controller / keyboard input
+        //Maybe a good start (for UI buttons at least):
+        //https://www.what-could-possibly-go-wrong.com/bringing-mvvm-to-unity-part-2-property-and-event-bindings/
     }
 }
