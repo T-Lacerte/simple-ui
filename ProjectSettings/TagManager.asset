@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Main Menu Manager
+  - Game Manager
+  - System Manager
   layers:
   - Default
   - TransparentFX
